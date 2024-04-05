@@ -24,7 +24,6 @@ declare_strings () {
 	SSH_REPO_DIR="$REPO_PATH/$SSH_DIR_NAME"
 	COMMIT_NAME="update project"
 	SSH_KEY_PASSPHRASE="for(;C==0;){std::cout<<C++}"
-	GH_PASSWORD="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"
 	REPO_URL="https://github.com/$GH_NAME/$REPO_NAME"
 	SSH_REPO_URL="git@github.com:$GH_NAME/$REPO_NAME"
 }
